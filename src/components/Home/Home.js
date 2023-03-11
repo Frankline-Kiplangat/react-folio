@@ -40,8 +40,8 @@ function Home() {
             </Col>
           </Row>
         </Container>
+        <Home2 />
       </Container>
-      <Home2 />
     </section>
   );
 }

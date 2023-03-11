@@ -11,11 +11,10 @@ function AboutCard() {
             
             I am <span className="purple"> Frankline Kiplangat </span>
             from <span className="purple"> Kenya.</span>
-            <br />I am a Fullstack Developer  and Technical Recruiter. I studied at The University of Nairobi and Moringa School.
+            <br />I am a Fullstack Developer. I studied at The University of Nairobi and Moringa School.
 
             <br />
             People find me to be an upbeat, self-motivated team player with excellent communication skills. 
-            I enjoy building everything from small business sites to portfolio themes and rich interactive web applications.
             I enjoy the collaborative nature of working on a team building a product. 
             I'm ready to jump onto a supportive team and begin contributing.
             <br />

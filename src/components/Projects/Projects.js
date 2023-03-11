@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import editor from "../../Assets/Projects/codeEditor.png";
 import akan from "../../Assets/Projects/project3.png";
 import quotes from "../../Assets/Projects/project6.png";
 import clone from "../../Assets/Projects/project1.png";

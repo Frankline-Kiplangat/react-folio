@@ -14,12 +14,12 @@ function AboutCard() {
             <br />I am a Fullstack Developer  and Technical Recruiter. I studied at The University of Nairobi and Moringa School.
 
             <br />
-            eople find me to be an upbeat, self-motivated team player with excellent communication skills. 
+            People find me to be an upbeat, self-motivated team player with excellent communication skills. 
             I enjoy building everything from small business sites to portfolio themes and rich interactive web applications.
             I enjoy the collaborative nature of working on a team building a product. 
             I'm ready to jump onto a supportive team and begin contributing.
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, These are some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
@@ -39,7 +39,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Everything is possible, sacrifice for better tomorrow!"{" "}
           </p>
-          <footer className="blockquote-footer">Frankline a.k.a Avocado</footer>
+          <footer className="blockquote-footer">Mr. Avocado</footer>
         </blockquote>
       </Card.Body>
     </Card>

@@ -52,7 +52,7 @@ function Projects() {
               imgPath={psl}
               isBlog={false}
               title="Psl"
-              description="Health Provider WEbsite "
+              description="Health Provider Website "
               ghLink="https://github.com/Frankline-Kiplangat/psl"
               demoLink="https://psl-frankline-kiplangat.vercel.app/"              
             />
@@ -83,7 +83,7 @@ function Projects() {
               imgPath={ridge}
               isBlog={false}
               title="fifthridge"
-              description="Event planner app"
+              description="Event planner app where users can book venues for parties, conference meetings or accomodation."
               ghLink="https://github.com/Frankline-Kiplangat/fifthridge"
               demoLink="https://frankline-kiplangat.github.io/fifthridge"              
             />

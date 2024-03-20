@@ -51,10 +51,12 @@ function Projects() {
             <ProjectCard
               imgPath={psl}
               isBlog={false}
-              title="Psl"
-              description="Health Provider Website "
+              title="Medical Sender"
+              description="Application that uses latest technology and artificial 
+              intelligence to eliminate the massive administrative 
+              burden that threatens the future of healthcare."
               ghLink="https://github.com/Frankline-Kiplangat/psl"
-              demoLink="https://psl-frankline-kiplangat.vercel.app/"              
+              demoLink="https://psl-frankline-kiplangat.vercel.app/"            
             />
             
           </Col>
@@ -73,7 +75,8 @@ function Projects() {
               imgPath={gallery}
               isBlog={false}
               title="Personal Gallery"
-              description="Gallery that displays my photos for others to see. You can click on a single photo to view details."
+              description="Gallery that displays my photos for others to see.
+               You can click on a single photo to view details."
               ghLink="https://github.com/Frankline-Kiplangat/personal-gallery"
               demoLink="https://frank-personal-gallery.herokuapp.com"              
             />
@@ -82,11 +85,11 @@ function Projects() {
             <ProjectCard
               imgPath={ridge}
               isBlog={false}
-              title="fifthridge"
-              description="Event planner app where users can book venues for parties, conference meetings or accomodation."
+              title="fifthridge Planner"
+              description="Event planner application where users can book venues for private parties, conference meetings or accomodation."
               ghLink="https://github.com/Frankline-Kiplangat/fifthridge"
               demoLink="https://frankline-kiplangat.github.io/fifthridge"              
-            />
+            /> <br />
           </Col>
 
         </Row>

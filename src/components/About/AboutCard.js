@@ -36,9 +36,8 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Everything is possible, sacrifice for better tomorrow!"{" "}
+            "Everything is possible, sacrifice for better tomorrow!"
           </p>
-          <footer className="blockquote-footer">Mr. Avocado</footer>
         </blockquote>
       </Card.Body>
     </Card>

@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             
             I am <span className="purple"> Frankline Kiplangat </span>
-            from <span className="purple"> Kenya.</span>
+           
             <br />I am a Fullstack Developer. I studied at The University of Nairobi and Moringa School.
 
             <br />
